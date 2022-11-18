@@ -1,7 +1,7 @@
 {
     "name": {
-        "message": "Mastodon Fresh",
-        "description": "The name of the extension"
+        "message": "Mastodon with Twitter Skin",
+        "description": "Mastodon with Twitter skin"
     },
     "description": {
         "message": "Welcome to the fresh Mastodon experience",
