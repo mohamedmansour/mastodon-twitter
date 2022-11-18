@@ -1,0 +1,260 @@
+html{scrollbar-color: transparent rgba(0,0,0,.1) !important;}
+::-webkit-scrollbar-thumb{background: transparent !important;}
+::-webkit-scrollbar-thumb:active{background: transparent !important;}
+::-webkit-scrollbar-track:active,::-webkit-scrollbar-track:hover{background: transparent !important;}
+body.lighter{background: transparent !important;}
+body.embed{background: transparent !important;}
+body.error{background: transparent !important;}
+.app-holder noscript a,.error-boundary a{color: #1d9bf0 !important;}
+.account-header{border-bottom: 1px solid transparent !important;}
+.hero-widget__text{background: transparent !important;}
+.moved-account-widget{background: transparent !important;}
+.directory{background: transparent !important;}
+.directory__tag>a,.directory__tag>div{background: transparent !important;}
+.accounts-table .fa.active{color: #1d9bf0 !important;}
+.simple_form .input.boolean label a{color: #1d9bf0 !important;}
+.simple_form .hint a{color: #1d9bf0 !important;}
+.simple_form input[type=datetime-local]:active,.simple_form input[type=datetime-local]:focus,.simple_form input[type=email]:active,.simple_form input[type=email]:focus,.simple_form input[type=number]:active,.simple_form input[type=number]:focus,.simple_form input[type=password]:active,.simple_form input[type=password]:focus,.simple_form input[type=text]:active,.simple_form input[type=text]:focus,.simple_form input[type=url]:active,.simple_form input[type=url]:focus,.simple_form textarea:active,.simple_form textarea:focus{border-color: #1d9bf0 !important;}
+.simple_form input[type=datetime-local]:active,.simple_form input[type=datetime-local]:focus,.simple_form input[type=email]:active,.simple_form input[type=email]:focus,.simple_form input[type=number]:active,.simple_form input[type=number]:focus,.simple_form input[type=password]:active,.simple_form input[type=password]:focus,.simple_form input[type=text]:active,.simple_form input[type=text]:focus,.simple_form input[type=url]:active,.simple_form input[type=url]:focus,.simple_form textarea:active,.simple_form textarea:focus{background: transparent !important;}
+.simple_form .block-button,.simple_form .button,.simple_form button{background: #1d9bf0 !important;}
+.flash-message .oauth-code{background: transparent !important;}
+.flash-message .oauth-code:focus{background: transparent !important;}
+.quick-nav a{color: #1d9bf0 !important;}
+.oauth-prompt .permissions-list{border: 1px solid transparent !important;}
+.permissions-list__item{border-bottom: 1px solid transparent !important;}
+.card__bar{background: transparent !important;}
+.card__bar .avatar img{background: transparent !important;}
+.pagination .current{color: transparent !important;}
+.nothing-here{background: transparent !important;}
+.account__header__fields a{color: #1d9bf0 !important;}
+.activity-stream .entry{background: transparent !important;}
+.button.logo-button{background: #1d9bf0 !important;}
+.link-button{color: #1d9bf0 !important;}
+.button{background-color: #1d9bf0 !important;}
+.button.button-alternative{color: transparent !important;}
+.button.button-tertiary{color: #1d9bf0 !important;}
+.button.button-tertiary{border: 1px solid #1d9bf0 !important;}
+.icon-button.active{color: #1d9bf0 !important;}
+.icon-button.inverted.active{color: #1d9bf0 !important;}
+.text-icon-button.active{color: #1d9bf0 !important;}
+.compose-form__sensitive-button.active{color: #1d9bf0 !important;}
+.compose-form__sensitive-button .checkbox.active{border-color: #1d9bf0 !important;}
+.compose-form__sensitive-button .checkbox.active{background: #1d9bf0 !important;}
+.compose-form .compose-form__warning{color: transparent !important;}
+.compose-form .compose-form__warning strong{color: transparent !important;}
+.compose-form .autosuggest-textarea__textarea,.compose-form .spoiler-input__input{color: transparent !important;}
+.compose-form .autosuggest-textarea__suggestions{color: transparent !important;}
+.compose-form .compose-form__modifiers{color: transparent !important;}
+.reply-indicator__display-name{color: transparent !important;}
+.reply-indicator__content a.unhandled-link,.status__content a.unhandled-link{color: #1d9bf0 !important;}
+.announcements__item__content a.unhandled-link{color: #1d9bf0 !important;}
+.status__content__read-more-button{color: #1d9bf0 !important;}
+.status__content__spoiler-link{color: transparent !important;}
+.status__wrapper--filtered__button{color: #1d9bf0 !important;}
+.focusable:focus{background: transparent !important;}
+.status.light .status__display-name{color: transparent !important;}
+.status.light .display-name strong,.status.light .status__content{color: transparent !important;}
+.status.light .status__content a{color: #1d9bf0 !important;}
+.detailed-status{background: transparent !important;}
+.detailed-status__action-bar{background: transparent !important;}
+.reply-indicator__content{color: transparent !important;}
+.muted a.status__content__spoiler-link{color: transparent !important;}
+.notification__message .fa{color: #1d9bf0 !important;}
+.dropdown-menu__container__header{color: transparent !important;}
+.dropdown-menu__item{color: transparent !important;}
+.dropdown--active .dropdown__content>ul>li>a{color: transparent !important;}
+.tabs-bar__wrapper{background: transparent !important;}
+.column>.scrollable{background: transparent !important;}
+.tabs-bar__link.active{border-bottom: 2px solid #1d9bf0 !important;}
+.tabs-bar__link.active{color: #1d9bf0 !important;}
+.columns-area__panels__pane--navigational .navigation-panel{background: transparent !important;}
+.ui__header{background: transparent !important;}
+.column-link--transparent .icon-with-badge__badge{border-color: transparent !important;}
+.compose-panel hr,.navigation-panel hr{border-top: 1px solid transparent !important;}
+.drawer__inner.darker{background: transparent !important;}
+.column-back-button{background: transparent !important;}
+.column-back-button{color: #1d9bf0 !important;}
+.column-header__back-button{background: transparent !important;}
+.column-header__back-button{color: #1d9bf0 !important;}
+.react-toggle-track{background-color: transparent !important;}
+.react-toggle--checked .react-toggle-track{background-color: #1d9bf0 !important;}
+.react-toggle-thumb{border: 1px solid transparent !important;}
+.column-link--transparent.active{color: #1d9bf0 !important;}
+.column-link__badge,.column-subheading{background: transparent !important;}
+.flex-spacer,.getting-started,.getting-started__wrapper{background: transparent !important;}
+.setting-text{color: transparent !important;}
+.setting-text__wrapper__modifiers{color: transparent !important;}
+.status-card.compact{border-color: transparent !important;}
+a.status-card.compact:hover{background-color: transparent !important;}
+.timeline-hint a{color: #1d9bf0 !important;}
+.regeneration-indicator{background: transparent !important;}
+.column-header{background: transparent !important;}
+.column-header>.column-header__back-button{color: #1d9bf0 !important;}
+.column-header.active .column-header__icon{color: #1d9bf0 !important;}
+.column-header__button{background: transparent !important;}
+.account--panel{background: transparent !important;}
+.column-settings__hashtags .column-select__control{background: transparent !important;}
+.column-settings__hashtags .column-select__control:focus{background: transparent !important;}
+.column-settings__hashtags .column-select__menu em{color: transparent !important;}
+.column-settings__hashtags .column-select__option{color: transparent !important;}
+.empty-column-indicator,.follow_requests-unlocked_explanation{background: transparent !important;}
+.empty-column-indicator a,.follow_requests-unlocked_explanation a{color: #1d9bf0 !important;}
+.error-column{background: transparent !important;}
+.upload-area__background{background: transparent !important;}
+.privacy-dropdown__option{color: transparent !important;}
+.privacy-dropdown__option__content strong{color: transparent !important;}
+.language-dropdown__dropdown__results__item{color: transparent !important;}
+.search__input{background: transparent !important;}
+.search__input:focus{background: transparent !important;}
+.media-modal__overlay .picture-in-picture__footer .icon-button.active{color: #1d9bf0 !important;}
+.embed-modal,.error-modal,.onboarding-modal{color: transparent !important;}
+.error-modal__footer .error-modal__nav.onboarding-modal__done,.error-modal__footer .error-modal__nav.onboarding-modal__next,.error-modal__footer .onboarding-modal__nav.onboarding-modal__done,.error-modal__footer .onboarding-modal__nav.onboarding-modal__next,.onboarding-modal__paginator .error-modal__nav.onboarding-modal__done,.onboarding-modal__paginator .error-modal__nav.onboarding-modal__next,.onboarding-modal__paginator .onboarding-modal__nav.onboarding-modal__done,.onboarding-modal__paginator .onboarding-modal__nav.onboarding-modal__next{color: transparent !important;}
+.error-modal__footer .error-modal__nav.onboarding-modal__done:active,.error-modal__footer .error-modal__nav.onboarding-modal__done:focus,.error-modal__footer .error-modal__nav.onboarding-modal__done:hover,.error-modal__footer .error-modal__nav.onboarding-modal__next:active,.error-modal__footer .error-modal__nav.onboarding-modal__next:focus,.error-modal__footer .error-modal__nav.onboarding-modal__next:hover,.error-modal__footer .onboarding-modal__nav.onboarding-modal__done:active,.error-modal__footer .onboarding-modal__nav.onboarding-modal__done:focus,.error-modal__footer .onboarding-modal__nav.onboarding-modal__done:hover,.error-modal__footer .onboarding-modal__nav.onboarding-modal__next:active,.error-modal__footer .onboarding-modal__nav.onboarding-modal__next:focus,.error-modal__footer .onboarding-modal__nav.onboarding-modal__next:hover,.onboarding-modal__paginator .error-modal__nav.onboarding-modal__done:active,.onboarding-modal__paginator .error-modal__nav.onboarding-modal__done:focus,.onboarding-modal__paginator .error-modal__nav.onboarding-modal__done:hover,.onboarding-modal__paginator .error-modal__nav.onboarding-modal__next:active,.onboarding-modal__paginator .error-modal__nav.onboarding-modal__next:focus,.onboarding-modal__paginator .error-modal__nav.onboarding-modal__next:hover,.onboarding-modal__paginator .onboarding-modal__nav.onboarding-modal__done:active,.onboarding-modal__paginator .onboarding-modal__nav.onboarding-modal__done:focus,.onboarding-modal__paginator .onboarding-modal__nav.onboarding-modal__done:hover,.onboarding-modal__paginator .onboarding-modal__nav.onboarding-modal__next:active,.onboarding-modal__paginator .onboarding-modal__nav.onboarding-modal__next:focus,.onboarding-modal__paginator .onboarding-modal__nav.onboarding-modal__next:hover{color: transparent !important;}
+.display-case__label{color: transparent !important;}
+.display-case__case{background: transparent !important;}
+.actions-modal,.block-modal,.boost-modal,.compare-history-modal,.confirmation-modal,.mute-modal,.report-modal{color: transparent !important;}
+.report-dialog-modal{color: transparent !important;}
+.report-dialog-modal__lead a{color: transparent !important;}
+.report-dialog-modal .status__content a{color: #1d9bf0 !important;}
+.report-dialog-modal .status__content,.report-dialog-modal .status__content p{color: transparent !important;}
+.report-dialog-modal .dialog-option .poll__input{border-color: transparent !important;}
+.report-dialog-modal .dialog-option .poll__input.active{border-color: transparent !important;}
+.report-dialog-modal .dialog-option .poll__input.active{background: transparent !important;}
+.report-dialog-modal .poll__option.dialog-option>.poll__option__text strong{color: transparent !important;}
+.report-dialog-modal__textarea{color: transparent !important;}
+.report-dialog-modal .button.button-secondary{border-color: transparent !important;}
+.report-dialog-modal .button.button-secondary{color: transparent !important;}
+.focal-point-modal__content .status__content a,.report-modal__statuses .status__content a{color: #1d9bf0 !important;}
+.focal-point-modal__content .status__content,.focal-point-modal__content .status__content p,.report-modal__statuses .status__content,.report-modal__statuses .status__content p{color: transparent !important;}
+.report-modal__comment .setting-text-label{color: transparent !important;}
+.report-modal__comment .setting-toggle__label{color: transparent !important;}
+.actions-modal ul li:not(:empty) a{color: transparent !important;}
+.block-modal__container select,.confirmation-modal__container select,.mute-modal__container select,.report-modal__target select{color: transparent !important;}
+.block-modal .setting-toggle__label,.mute-modal .setting-toggle__label{color: transparent !important;}
+.compare-history-modal .status__content{color: transparent !important;}
+.compare-history-modal .status__content a{color: #1d9bf0 !important;}
+.loading-bar{background-color: #1d9bf0 !important;}
+.audio-player{background: transparent !important;}
+.video-player__volume__current{background: #1d9bf0 !important;}
+.video-player__volume__handle{background: #1d9bf0 !important;}
+.video-player__seek__buffer,.video-player__seek__progress{background: #1d9bf0 !important;}
+.video-player__seek__handle{background: #1d9bf0 !important;}
+.account__section-headline a.active:after,.account__section-headline button.active:after,.notification__filter-bar a.active:after,.notification__filter-bar button.active:after{border-color: transparent transparent transparent !important;}
+.filter-form{background: transparent !important;}
+.search-popout em{color: transparent !important;}
+noscript div a{color: #1d9bf0 !important;}
+.embed-modal .embed-modal__container .embed-modal__html{background: transparent !important;}
+.embed-modal .embed-modal__container .embed-modal__html:focus{background: transparent !important;}
+.moved-account-banner{background: transparent !important;}
+.column-inline-form{background: transparent !important;}
+.list-editor{background: transparent !important;}
+.list-adder{background: transparent !important;}
+.account__header{background: transparent !important;}
+.account__header__bar .avatar .account__avatar{background: transparent !important;}
+.account__header__bar .avatar .account__avatar{border: 2px solid transparent !important;}
+.account__header__bio .account__header__fields dl{border-bottom-color: transparent !important;}
+.account__header__bio .account__header__fields a{color: #1d9bf0 !important;}
+.account__header__account-note textarea:focus{background: transparent !important;}
+.conversation__unread{background: #1d9bf0 !important;}
+.conversation--unread:focus{background: transparent !important;}
+.announcements__item__unread{background: #1d9bf0 !important;}
+.notification.unread:before,.status__wrapper.unread:before{border-left: 2px solid #1d9bf0 !important;}
+.picture-in-picture__footer,.picture-in-picture__header{background: transparent !important;}
+.story:active,.story:focus,.story:hover{background-color: transparent !important;}
+.server-banner__hero{background: transparent !important;}
+.interaction-modal{background: transparent !important;}
+.interaction-modal__icon{color: #1d9bf0 !important;}
+.copypaste input{background: transparent !important;}
+.copypaste input{border: 1px solid #1d9bf0 !important;}
+.privacy-policy{background: transparent !important;}
+.prose a{color: #1d9bf0 !important;}
+.prose code{background: transparent !important;}
+.prose hr{border-top: 1px solid transparent !important;}
+.dismissable-banner{background: transparent !important;}
+.about__header__hero{background: transparent !important;}
+.about__meta{background: transparent !important;}
+.about__section__title{background: transparent !important;}
+.about__section__title{color: #1d9bf0 !important;}
+.about__section__body{border: 1px solid transparent !important;}
+.about__domain-blocks{border: 1px solid transparent !important;}
+.about__domain-blocks__domain{border-bottom: 1px solid transparent !important;}
+.poll__option input[type=text]{color: transparent !important;}
+.poll__option input[type=text]:focus{border-color: #1d9bf0 !important;}
+.compose-form__poll-wrapper .poll__footer button:focus,.compose-form__poll-wrapper .poll__footer select:focus{border-color: #1d9bf0 !important;}
+.compose-form__poll-wrapper select{color: transparent !important;}
+.modal-layout{background: transparent url('data:image/svg+xml !important;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 234.80078 31.757813" width="234.80078" height="31.757812"><path d="M19.599609 0c-1.05 0-2.10039.375-2.90039 1.125L0 16.925781v14.832031h234.80078V17.025391l-16.5-15.900391c-1.6-1.5-4.20078-1.5-5.80078 0l-13.80078 13.099609c-1.6 1.5-4.19883 1.5-5.79883 0L179.09961 1.125c-1.6-1.5-4.19883-1.5-5.79883 0L159.5 14.224609c-1.6 1.5-4.20078 1.5-5.80078 0L139.90039 1.125c-1.6-1.5-4.20078-1.5-5.80078 0l-13.79883 13.099609c-1.6 1.5-4.20078 1.5-5.80078 0L100.69922 1.125c-1.600001-1.5-4.198829-1.5-5.798829 0l-13.59961 13.099609c-1.6 1.5-4.200781 1.5-5.800781 0L61.699219 1.125c-1.6-1.5-4.198828-1.5-5.798828 0L42.099609 14.224609c-1.6 1.5-4.198828 1.5-5.798828 0L22.5 1.125C21.7.375 20.649609 0 19.599609 0z" fill="%23606984"/></svg>') repeat-x bottom fixed !important;}
+.emoji-mart{color: transparent !important;}
+.emoji-mart-anchor-selected{color: #1d9bf0 !important;}
+.emoji-mart-anchor-bar{background-color: #1d9bf0 !important;}
+.emoji-mart-search input{color: transparent !important;}
+.rules-list li:before{background: #1d9bf0 !important;}
+.rules-list li:before{color: transparent !important;}
+.table td,.table th{border-top: 1px solid transparent !important;}
+.table>thead>tr>th{border-bottom: 2px solid transparent !important;}
+.table>tbody>tr:nth-child(odd)>td,.table>tbody>tr:nth-child(odd)>th{background: transparent !important;}
+.table a{color: #1d9bf0 !important;}
+.table.batch-table>thead>tr>th{background: transparent !important;}
+.table.batch-table>thead>tr>th{border-top: 1px solid transparent !important;}
+.table.batch-table>thead>tr>th{border-bottom: 1px solid transparent !important;}
+.table.batch-table>thead>tr>th:first-child{border-left: 1px solid transparent !important;}
+.table.batch-table>thead>tr>th:last-child{border-right: 1px solid transparent !important;}
+.batch-table__toolbar{border: 1px solid transparent !important;}
+.batch-table__toolbar{background: transparent !important;}
+.batch-table__select-all{background: transparent !important;}
+.batch-table__select-all{border: 1px solid transparent !important;}
+.batch-table__select-all button{color: #1d9bf0 !important;}
+.batch-table__form{border: 1px solid transparent !important;}
+.batch-table__form{background: transparent !important;}
+.batch-table__row{border: 1px solid transparent !important;}
+.optional .batch-table__row:first-child{border-top:1px solid transparent !important;}
+.batch-table__row:nth-child(2n){background: transparent !important;}
+.batch-table .nothing-here{border: 1px solid transparent !important;}
+.batch-table .nothing-here{border-top:1px solid transparent !important;}
+.admin-wrapper .sidebar-wrapper__inner{background: transparent !important;}
+.admin-wrapper .sidebar__toggle{border-bottom: 1px solid transparent !important;}
+.admin-wrapper .sidebar__toggle__icon:focus{background: transparent !important;}
+.admin-wrapper .sidebar ul .simple-navigation-active-leaf a{background-color: #1d9bf0 !important;}
+.admin-wrapper .content__heading__tabs a:active,.admin-wrapper .content__heading__tabs a:focus,.admin-wrapper .content__heading__tabs a:hover{background: transparent !important;}
+.admin-wrapper .sidebar>ul.visible{background: transparent !important;}
+.admin-wrapper .sidebar ul a,.admin-wrapper .sidebar ul ul a{border-bottom: 1px solid transparent !important;}
+.admin-wrapper .content .muted-hint a,body .muted-hint a{color: #1d9bf0 !important;}
+.filters .filter-subset a{border-bottom: 2px solid transparent !important;}
+.filters .filter-subset a.selected{color: #1d9bf0 !important;}
+.back-link a{color: #1d9bf0 !important;}
+.log-entry{background: transparent !important;}
+.log-entry{border-bottom: 1px solid transparent !important;}
+.log-entry:active,.log-entry:focus,.log-entry:hover{background: transparent !important;}
+.report-card{background: transparent !important;}
+.admin-account-bio .account__header__fields a{color: #1d9bf0 !important;}
+.applications-list__item,.filters-list__item{background: transparent !important;}
+.applications-list__item,.filters-list__item{border: 1px solid transparent !important;}
+.announcements-list,.filters-list{border: 1px solid transparent !important;}
+.announcements-list__item,.filters-list__item{background: transparent !important;}
+.announcements-list__item,.filters-list__item{border-bottom: 1px solid transparent !important;}
+.sparkline{background: transparent !important;}
+.dimension__item{border-bottom: 1px solid transparent !important;}
+.report-reason-selector{background: transparent !important;}
+.report-reason-selector__category{border-bottom: 1px solid transparent !important;}
+.account-card{background: transparent !important;}
+.account-card__header img{background: transparent !important;}
+.account-card__title__avatar .account__avatar,.account-card__title__avatar img{background-color: transparent !important;}
+.account-card__title__avatar .account__avatar,.account-card__title__avatar img{border: 1px solid transparent !important;}
+.account-card__bio:after{background: linear-gradient(270deg,transparent,transparent) !important;}
+.report-notes__item{background: transparent !important;}
+.report-notes__item{border-bottom: 1px solid transparent !important;}
+.report-notes__item:hover{background-color: transparent !important;}
+.report-actions{border: 1px solid transparent !important;}
+.report-actions__item{border-bottom: 1px solid transparent !important;}
+.strike-card{background: transparent !important;}
+.strike-card__statuses-list{border: 1px solid transparent !important;}
+.strike-card__statuses-list__item{border-bottom: 1px solid transparent !important;}
+.history li:before{background: transparent !important;}
+.history li:before{border: 1px solid #1d9bf0 !important;}
+.history li:before{color: #1d9bf0 !important;}
+.history li:after{background: #1d9bf0 !important;}
+.history__entry .status{border: 1px solid transparent !important;}
+.history__entry .status{background: transparent !important;}
+.dashboard__counters>div>a,.dashboard__counters>div>div{background: transparent !important;}
+.dashboard__quick-access{background: #1d9bf0 !important;}
+.dashboard__quick-access.positive{background: transparent !important;}
+.dashboard__quick-access.negative{background: transparent !important;}

@@ -1,0 +1,198 @@
+@font-face {
+    font-family: "TwitterChirpExtendedHeavy";
+    src: url('chrome-extension://__MSG_@@extension_id__/fonts/chirp-extended-heavy-web.woff2');
+    weight: 800;
+    font-style: 'normal';
+    font-display: 'swap';
+}
+
+@font-face {
+    font-family: "TwitterChirp";
+    src: url('chrome-extension://__MSG_@@extension_id__/fonts/chirp-regular-web.woff2');
+    font-weight: 400;
+    font-style: 'normal';
+    font-display: 'swap';
+}
+
+@font-face {
+    font-family: "TwitterChirp";
+    src: url('chrome-extension://__MSG_@@extension_id__/fonts/chirp-medium-web.woff2');
+    font-weight: 500;
+    font-style: 'normal';
+    font-display: 'swap';
+}
+
+@font-face {
+    font-family: "TwitterChirp";
+    src: url('chrome-extension://__MSG_@@extension_id__/fonts/chirp-bold-web.woff2');
+    font-weight: 700;
+    font-style: 'normal';
+    font-display: 'swap';
+}
+
+@font-face {
+    font-family: "TwitterChirp";
+    src: url('chrome-extension://__MSG_@@extension_id__/fonts/chirp-heavy-web.woff2');
+    font-weight: 800;
+    font-style: 'normal';
+    font-display: 'swap';
+}
+
+html {
+    -webkit-text-size-adjust: 100% !important;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0) !important;
+}
+
+.columns-area__panels {
+    flex-direction: row-reverse !important;
+}
+
+body {
+    font-family: TwitterChirp !important;
+    background-color: #000 !important;
+}
+
+
+::-webkit-scrollbar-thumb {
+    background: #040404 !important;
+}
+
+.column-link--logo {
+    background-image: url('chrome-extension://__MSG_@@extension_id__/images/logo.svg') !important;
+    background-size: 24px 24px !important;
+    background-repeat: no-repeat !important;
+    width: 24px !important;
+    height: 24px !important;
+    background-position: center !important;
+}
+
+.column-link--logo:hover {
+    background-color: rgba(255, 255, 255, 0.5) !important;
+    border-radius: 100% !important;
+}
+
+hr {
+    display: none !important;
+}
+
+.column-link--logo svg {
+    display: none !important;
+}
+
+.column-link__icon {
+    width: 24px !important;
+    height: 24px !important;
+    font-size: 24px !important;
+    margin-right: 20px !important;
+}
+
+.column-link--transparent {
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    padding: 12px !important;
+}
+
+.column-link--transparent.active {
+    font-weight: 700 !important;
+}
+
+.compose-form .autosuggest-textarea__textarea,
+.compose-form .spoiler-input__input,
+.compose-form .compose-form__buttons-wrapper,
+.compose-form .compose-form__modifiers {
+    color: #fff !important;
+    background: transparent !important;
+}
+
+.columns-area__panels__main {
+    border-left: 1px solid rgb(47, 51, 54) !important;
+    border-right: 1px solid rgb(47, 51, 54) !important;
+    padding: 0 !important;
+}
+
+.compose-form {
+    border-bottom: 1px solid rgb(47, 51, 54) !important;
+}
+
+.tabs-bar__wrapper {
+    padding: 0 !important;
+}
+
+.column-header {
+    background-color: rgba(0, 0, 0, 0.65) !important;
+    backdrop-filter: blur(12px) !important;
+    height: 53px !important;
+    font-weight: 700 !important;
+    font-size: 20px !important;
+}
+
+.compose-form .compose-form__buttons-wrapper {
+    align-items: center !important;
+}
+
+.character-counter__wrapper {
+    flex: 1 !important;
+    text-align: right !important;
+    margin-right: 20px !important;
+}
+
+.status-card.compact {
+    border: 1px solid rgb(47, 51, 54) !important;
+    border-radius: 10px !important;
+}
+
+.account__avatar {
+    border-radius: 100% !important;
+}
+
+.status__content,
+.status-card,
+.media-gallery,
+.status__action-bar {
+    margin-left: 54px !important;
+}
+
+.link-footer {
+    display: none !important;
+}
+
+.search {
+    background-color: #202327 !important;
+    border-radius: 24px !important;
+}
+
+.compose-panel {
+    margin-left: 20px !important;
+}
+
+
+.getting-started__trends {
+    background-color: #202327 !important;
+    border-radius: 10px !important;
+}
+
+.getting-started__trends h4 {
+    text-transform: inherit !important;
+    font-weight: 800 !important;
+    font-size: 20px !important;
+    line-height: 24px !important;
+    color: #fff !important;
+}
+
+.search__icon .fa,
+.fa-search.active,
+.fa-times-circle {
+    position: static !important;
+}
+
+.search {
+    display: flex !important;
+    align-items: center !important;
+    flex-direction: row-reverse !important;
+}
+
+.display-name {
+    display: flex !important;
+    align-items: center !important;
+    gap: 5px !important;
+}

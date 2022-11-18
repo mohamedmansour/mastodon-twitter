@@ -1,0 +1,36 @@
+{
+  "name": "__MSG_name__",
+  "short_name": "__MSG_name__",
+  "description": "__MSG_description__",
+  "version": "4.0.0",
+  "manifest_version": 3,
+  "default_locale": "en",
+  "icons": {
+    "180": "images/logo.png"
+  },
+  "content_scripts": [
+    {
+      "run_at": "document_end",
+      "js": ["scripts/content.js"],
+      "css": ["styles/overrides.css", "styles/content.css"],
+      "matches": [
+        "https://mastodon.social/*"
+      ]
+    }
+  ],
+  "permissions": [
+		"storage",
+		"contextMenus",
+		"activeTab",
+		"alarms"
+	],
+  "host_permissions": [
+    "https://mastodon.social/*"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["fonts/*","images/*"],
+      "matches": ["https://mastodon.social/*"]
+    }
+  ]
+}
